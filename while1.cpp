@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//while problem
+
 int main() {
     int n, x, planet_one;
     const int TEN = 10, NINE = 9;
